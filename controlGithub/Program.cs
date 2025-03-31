@@ -11,6 +11,7 @@ namespace controlGithub
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Saludando desde mi repositorio github");
         }
     }
 }
